@@ -52,8 +52,8 @@ def mySettings():
                            'F_S', 'F_SB', 'F_SF', 'F_SI', 'F_SM', 'F_TU', 'F_TY', 'F_US', 'F_W',
                            'F_XX', 'F_YM']
     settings['beginInSample'] = '20120506'
-    settings['endInSample'] = '20150506'
-    settings['lookback'] = 504
+    settings['endInSample'] = '20140506'
+    settings['lookback'] = 2
     settings['budget'] = 10**6
     settings['slippage'] = 0.05
 
